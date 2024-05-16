@@ -3,7 +3,7 @@
 This project was intended to update old Java Applet Demonstrations of steering behavior by Craig Reynolds to have support in a more modern browser using Rust and the ggez library. 
 
 #### Simple Behaviors 
-1. SeekFlee [Working with Bugs] <br />
+1. Seek and Flee [Working with Bugs] <br />
    - The important values here are max_speed, max_force, and acceleration_damping.
    - Acceleration damping and interpolation should be changed so the vehicle steers more smoothly and the transition is less abrupt.
    - The position doesn't quite scale correctly, should fix this. 
